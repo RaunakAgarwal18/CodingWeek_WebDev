@@ -1,0 +1,52 @@
+html{
+    padding: 20px;
+}
+
+#AboutMe{
+    background-color: bisque;
+    border: 10px;
+}
+h2,h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: darkcyan;
+}
+#name{
+    border-left: 200px;
+}
+#myself{
+    border-left: 200px;
+}
+#one{
+    font-family: cursive;
+    color: blueviolet;
+}
+#two{
+    font-family: cursive;
+    color:brown;
+}
+#three{
+    font-family: cursive;
+    color:cadetblue;
+}
+#four{
+    color:chocolate;
+    font-family: cursive
+}
+#five{
+    color:darkblue;
+    font-family: cursive
+}
+#six{
+    color:tomato;
+    font-family: cursive
+}
+#seven{
+    color:darkgreen;
+    font-family: cursive
+}
+#image{
+    height: 300px;
+    text-align: center;
+    
+}
